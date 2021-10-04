@@ -1,0 +1,28 @@
+body{
+	background-color: blue;
+	border: 3px solid black;
+	margin-top: 10px;
+  margin-right: 10%;
+  margin-left: 10%;
+	margin-bottom: 10px;
+}
+
+p#paraID{
+	color: red;
+	border-style: dashed;
+	border-color: green;
+	margin-top: 10px;
+  margin-right: 2%;
+  margin-left: 2%;
+	margin-bottom: 10px;
+}
+
+img{
+  border-style: dashed;
+	border-color: yellow;
+	border-spacing: 2px 2px;
+	margin-top: 10px;
+  margin-right: 10%;
+  margin-left: 2%;
+	margin-bottom: 10px;
+}

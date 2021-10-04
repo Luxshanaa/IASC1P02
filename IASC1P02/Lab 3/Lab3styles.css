@@ -1,0 +1,39 @@
+body{
+  background-color: black;
+}
+
+.firstClass{
+  color: red;
+}
+#firstID{
+  color: green;
+}
+
+#greenText{
+  color: green;
+  font-weight: bold;
+  text-align: center;
+}
+
+#orangeText{
+  color: orange;
+}
+
+#redSuper{
+  color: red;
+  vertical-align: super;
+}
+
+#purpleText{
+  color: purple;
+  text-align: right;
+}
+
+#yellowCaps{
+  color: yellow;
+  font-style: italic;
+  text-transform: uppercase;
+  display:inline;
+}
+
+/*Comment goes here*/

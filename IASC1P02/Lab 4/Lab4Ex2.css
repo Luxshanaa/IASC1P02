@@ -1,0 +1,16 @@
+p{
+  text-align: center;
+  margin-top: 20px;
+  border-style: dotted;
+  border-color: purple;
+}
+
+#orangeText{
+  color: orange;
+  text-align: left;
+}
+
+#redSuper{
+  color: red;
+  vertical-align: super;
+}
