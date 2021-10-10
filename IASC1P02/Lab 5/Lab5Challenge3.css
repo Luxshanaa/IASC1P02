@@ -1,0 +1,42 @@
+body{
+  background-color: green;
+}
+
+#wrapper{
+  width:800px;
+  margin: 0 auto;
+  background-color: green;
+}
+
+#blue{
+  background-color: blue;
+  color: black;
+  text-align: left;
+  position: fixed;
+  top:1%;
+  left: 15%;
+  width:250px;
+  height:250px;
+}
+
+#red{
+  background-color: red;
+  color: black;
+  text-align: left;
+  position: fixed;
+  top:1%;
+  right: 15%;
+  width:250px;
+  height:250px;
+}
+
+#yellow{
+  background-color: yellow;
+  color: black;
+  text-align: left;
+  position: fixed;
+  top:45%;
+  left: 40%;
+  width:250px;
+  height:250px;
+}
