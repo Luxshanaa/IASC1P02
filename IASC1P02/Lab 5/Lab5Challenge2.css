@@ -56,14 +56,14 @@ body{
 
 #leftBody{
   float: left;
-  height: 650px;
+  height: auto;
   background-color: green;
   width:225px;
 }
 
 #rightBody{
   float: right;
-  height: 650px;
+  height: auto;
   background-color: green;
   width: 225px;
 }
