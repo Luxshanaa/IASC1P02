@@ -1,0 +1,243 @@
+body{
+  background-color: white;
+}
+
+#wrapper{
+  width:1000px;
+  height:auto;
+  margin: 0 auto;
+}
+
+#header{
+  background-color: white;
+  color: #56b0dd;
+  text-align: center;
+  position: fixed;
+  top:2%;
+  left: 0%;
+  right: 0%;
+  width: 100%;
+  height: 85px;
+}
+
+#logo{
+  width: 225px;
+  height: 60.5px;
+  position: fixed;
+  top:2%;
+  left:2%;
+}
+
+#welcomeSlideShow{
+  background-color: #56b0dd;
+  color: white;
+  text-align: center;
+  position: absolute;
+  top:100px;
+  right: auto;
+  left: auto;
+  width: 100%;
+  height: 335px;
+}
+
+#ikariaBowl{
+  margin: 0% 95% 0% 5%;
+}
+
+#slideShow{
+  color: white;
+  text-align: right;
+  position: absolute;
+  top:20%;
+  right: 16.5%;
+}
+
+#buttonOne{
+  background-color: white;
+  color: #56b0dd;
+  text-align: center;
+  position: absolute;
+  top:65%;
+  right: 15%;
+  width:150px;
+  height:25px;
+}
+
+#menu{
+  background-color: white;
+  color: #56b0dd;
+  text-align: center;
+  position: absolute;
+  top:425px;
+  right: auto;
+  left: auto;
+  width: 100%;
+  height: 335px;
+}
+
+#contentTwoText{
+  color: #56b0dd;
+  text-align: left;
+  position: absolute;
+  top:20%;
+  left: 15.5%;
+}
+
+#box{
+  background-color: #56b0dd;
+  color: #56b0dd;
+  text-align: center;
+  position: absolute;
+  top:15%;
+  right: 10%;
+  width:300px;
+  height:200px;
+}
+
+#buttonTwo{
+  background-color:#56b0dd ;
+  color: white;
+  text-align: center;
+  position: absolute;
+  top:65%;
+  left: 15%;
+  width:150px;
+  height:25px;
+}
+
+#visitUs{
+  background-color: #56b0dd;
+  color: white;
+  text-align: center;
+  position: absolute;
+  top:760px;
+  right: auto;
+  left: auto;
+  width: 100%;
+  height: 335px;
+}
+
+#contentThreeText{
+  color: white;
+  text-align: center;
+  position: absolute;
+  top:20%;
+  left:49%;
+}
+
+#buttonThree{
+  background-color: white;
+  color: #56b0dd;
+  text-align: center;
+  position: absolute;
+  top:65%;
+  left: 45%;
+  width:150px;
+  height:25px;
+}
+
+#contactUs{
+  background-color: white;
+  color: #56b0dd;
+  text-align: center;
+  position: absolute;
+  top:1095px;
+  right: auto;
+  left: auto;
+  width: 100%;
+  height: 335px;
+}
+
+#address{
+  color: #56b0dd;
+  text-align: left;
+  position: absolute;
+  top:15%;
+  left:42%;
+}
+
+#buttonFour{
+  background-color:#56b0dd ;
+  color: white;
+  text-align: center;
+  position: absolute;
+  top:50%;
+  left: 40%;
+  width:100px;
+  height:25px;
+}
+
+#phoneNumber{
+  color: #56b0dd;
+  text-align: left;
+  position: absolute;
+  top:15%;
+  left:55%;
+}
+
+#buttonFive{
+  background-color:#56b0dd ;
+  color: white;
+  text-align: center;
+  position: absolute;
+  top:50%;
+  left: 55%;
+  width:150px;
+  height:25px;
+}
+
+#footer{
+  background-color: #56b0dd;
+  color: white;
+  text-align: center;
+  position: fixed;
+  right: 0%;
+  bottom: 0%;
+  left: 0%;
+  width: 100%;
+  height: 90px;
+}
+
+#buttonSix{
+  background-color: white;
+  color: #56b0dd;
+  text-align: center;
+  position: absolute;
+  top:35%;
+  left: 45%;
+  width:150px;
+  height:25px;
+}
+
+#smallBoxOne{
+  background-color: white;
+  color: white;
+  text-align: center;
+  position: absolute;
+  top:35%;
+  right: 5%;
+  width:25px;
+  height:25px;
+}
+
+#smallBoxTwo{
+  background-color: white;
+  color: white;
+  text-align: center;
+  position: absolute;
+  top:35%;
+  right: 10%;
+  width:25px;
+  height:25px;
+}
+
+#smallBoxThree{
+  background-color: white;
+  color: white;
+  text-align: center;
+  position: absolute;
+  top:35%;
+  right: 15%;
+  width:25px;
+  height:25px;
+}
